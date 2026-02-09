@@ -1,0 +1,5 @@
+App settings
+===========
+mode=dev
+log_level=info
+feature_x=false

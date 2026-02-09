@@ -1,0 +1,3 @@
+Hello from git-practice.
+Edit this file on a new branch.
+Then merge back to main.
